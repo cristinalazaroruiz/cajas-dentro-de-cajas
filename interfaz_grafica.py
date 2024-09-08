@@ -231,7 +231,7 @@ frame4.columnconfigure(3, weight=0)  # La columna del scrollbar vertical del ran
 frame4.rowconfigure(0, weight=0)  # La fila de los labels no necesita peso
 frame4.rowconfigure(1, weight=1)  # La fila de los Listbox debe expandirse
 frame4.rowconfigure(2, weight=0)  # La fila del scrollbar horizontal no necesita peso
-##
+
 
 
 root.mainloop()  # Fin de la interfaz
